@@ -17,8 +17,6 @@ python小工具
 
 赶紧下载吧
 
-注意事项：
+注意事项请看说明书
 
-请不要用爬虫做不法的勾当
 
-在使用前请确保你安装了BeautifulSoup requests tkinter
