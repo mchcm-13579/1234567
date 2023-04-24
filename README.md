@@ -16,3 +16,9 @@ python小工具
 心动不如行动
 
 赶紧下载吧
+
+注意事项：
+
+请不要用爬虫做不法的勾当
+
+在使用前请确保你安装了BeautifulSoup requests tkinter
